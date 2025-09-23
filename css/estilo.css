@@ -1,0 +1,27 @@
+.iconos a:link i, .iconos a:visited i {
+    font-size: 1.5rem;
+    color: white;
+    padding: .4rem;
+}
+
+.iconos a:hover i, .iconos a:active i{
+    color: #6443ff !important;
+}
+
+
+.text-AzulOscuro{
+    color: #2f4e6f;
+    font-size: 19px;
+}
+
+.text-AzulClaro{
+    color: #6443ff;
+    font-size: 15px;
+}
+
+.anadirCarrito{
+    color: white;
+    text-align: center;
+    padding-right: 3rem;
+}
+
