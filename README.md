@@ -84,8 +84,6 @@ O'Clock Store/
 - Navegación responsiva con menú hamburguesa
 - Productos organizados por marca
 - Páginas de detalle para cada reloj
-- Sistema de carrito de compras
-- Lista de deseos personalizada
 - Enlaces a redes sociales
 - Diseño mobile-first
 
