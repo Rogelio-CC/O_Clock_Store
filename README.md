@@ -75,7 +75,6 @@ O'Clock Store/
 - **HTML5** - Estructura semántica
 - **CSS3** - Estilos y diseño responsivo
 - **Bootstrap 5** - Framework CSS
-- **JavaScript (ES6)** - Interactividad
 - **Iconos Bootstrap** - Elementos visuales
 
 ---
